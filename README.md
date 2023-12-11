@@ -97,7 +97,7 @@ The visual inspection of histograms reveals a notable correlation between the gr
 The entropy values, a measure of information content, exhibit consistency between the original and transformed images. The deterministic and reversible nature of Arnold's Cat Map ensures that information entropy is maintained, contributing to the observed similarity.
 
 In summary, the preservation of structural features and information entropy underscores the effectiveness of Arnold's Cat Map in maintaining critical characteristics during the transformation process.
-
+  
 ## License
 This project is licensed under the MIT License. You can use, modify, and distribute the code as the license permits.
 
